@@ -1,16 +1,14 @@
 # Site settings
-title: Pudhina
+title: Nicq Chen
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
-
-baseurl: "/Pudhina" # the subpath of your site, e.g. /blog/
-url: "https://knhash.github.io" # the base hostname & protocol for your site
+        it is a personal website.
+baseurl: "/NicqChen" # the subpath of your site, e.g. /blog/
+url: "https://nicqchen.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
-  github: github
-  linkedin: linkedin
-  email: example@email.com
+  fullname: Nicq Chen
+  github: nicqchen.github.io
+  email: nicq.chen@outlook.com
 
 
 # Syntax highlighting
