@@ -2,7 +2,7 @@
 title: Nicq Chen
 description: >
         it is a personal website.
-baseurl: "/NicqChen" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://nicqchen.github.io" # the base hostname & protocol for your site
 
 author:
